@@ -1,2 +1,2 @@
 # uiauto
-Cypress UI automation
+Cypress UI automation.
