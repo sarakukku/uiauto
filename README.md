@@ -9,4 +9,6 @@ CypressAutomation>node_modules\.bin\cypress run
 Command to execute in UI mode
 
 
-CypressAutomation>node_modules\.bin\cypress run
+CypressAutomation>node_modules\.bin\cypress open
+
+Wait few seconds to open Cypress Test Runner
